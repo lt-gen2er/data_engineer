@@ -1,0 +1,142 @@
+2022.12.25 18:28:09 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/ubuntu/data_engineer/.metals/lsp.trace.json or /home/ubuntu/.cache/metals/lsp.trace.json[0m
+2022.12.25 18:28:09 INFO  logging to file /home/ubuntu/data_engineer/.metals/metals.log[0m
+2022.12.25 18:28:09 INFO  Started: Metals version 0.11.9 in workspace '/home/ubuntu/data_engineer' for client Visual Studio Code 1.74.2.[0m
+2022.12.25 18:28:10 INFO  time: initialize in 1.2s[0m
+2022.12.25 18:28:12 WARN  Build server is not auto-connectable.[0m
+2022.12.25 18:28:12 WARN  no build tool detected in workspace '/home/ubuntu/data_engineer'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2022.12.25 18:28:27 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/wordcount.scala[0m
+2022.12.25 18:28:30 INFO  no build target found for /home/ubuntu/data_engineer/wordcount/wordcount.scala. Using presentation compiler with project's scala-library version: 3.2.0[0m
+2022.12.25 18:28:31 INFO  time: code lens generation in 4.06s[0m
+2022.12.25 18:29:14 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/wordcount.scala[0m
+2022.12.25 18:29:14 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/wordcount.scala[0m
+2022.12.25 18:29:14 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/wordcount.scala[0m
+2022.12.25 18:29:24 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/main.scala[0m
+2022.12.25 18:29:34 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/wordcount.scala[0m
+2022.12.25 18:59:37 INFO  [0m
+2022.12.25 18:59:37 INFO  Template applied in /home/ubuntu/data_engineer/wordcount/./hello-world[0m
+2022.12.25 18:59:37 INFO  [0m
+2022.12.25 18:59:37 INFO  time: ran 'giter8.Giter8' in 5.04s[0m
+2022.12.25 19:00:19 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/hello-world/src/main/scala/Main.scala[0m
+2022.12.25 19:00:48 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/hello-world/build.sbt[0m
+2022.12.25 19:00:51 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/hello-world/src/main/scala/Main.scala[0m
+2022.12.25 19:03:52 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/hello-world/src/main/scala/Main.scala[0m
+2022.12.25 19:04:13 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/wordcount/src/main/scala/Main.scala[0m
+2022.12.25 19:04:17 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/wordcount/build.sbt[0m
+2022.12.25 19:04:18 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/wordcount/src/main/scala/Main.scala[0m
+2022.12.25 19:04:20 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/wordcount/build.sbt[0m
+2022.12.25 19:04:27 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/wordcount.scala[0m
+2022.12.25 19:04:32 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/wordcount/src/main/scala/Main.scala[0m
+2022.12.25 19:04:44 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/wordcount/src/main/scala/WordCount.scala[0m
+2022.12.25 19:04:45 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/wordcount.scala[0m
+2022.12.25 19:04:51 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/wordcount/src/main/scala/WordCount.scala[0m
+2022.12.25 19:07:35 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/wordcount/src/main/scala/WordCount.scala[0m
+2022.12.25 19:07:41 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/wordcount/src/main/scala/Main.scala[0m
+2022.12.25 19:07:58 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/wordcount/src/main/scala/WordCount.scala[0m
+2022.12.25 19:07:58 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/wordcount/src/main/scala/WordCount.scala[0m
+2022.12.25 19:08:48 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/wordcount/src/main/scala/WordCount.scala[0m
+2022.12.25 19:33:47 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/wordcount/build.sbt[0m
+2022.12.25 19:34:13 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/wordcount/build.sbt[0m
+2022.12.25 19:35:09 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/wordcount/build.sbt[0m
+2022.12.25 19:35:38 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/wordcount/build.sbt[0m
+2022.12.25 19:36:32 WARN  no build target for: /home/ubuntu/data_engineer/wordcount1/wordcount/build.sbt[0m
+2022.12.25 19:36:32 WARN  no build target for: /home/ubuntu/data_engineer/wordcount1/wordcount/src/main/scala/WordCount.scala[0m
+2022.12.25 19:36:35 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/src/main/scala/WordCount.scala[0m
+2022.12.25 19:36:35 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/build.sbt[0m
+2022.12.25 20:05:26 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/build.sbt[0m
+2022.12.25 20:07:47 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/plugins.sbt[0m
+2022.12.25 20:07:56 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/plugins.sbt[0m
+2022.12.25 20:08:07 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/build.sbt[0m
+2022.12.25 20:08:22 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/build.sbt[0m
+2022.12.25 20:08:36 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/build.sbt[0m
+2022.12.25 20:31:29 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/build.sbt[0m
+2022.12.25 20:31:51 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/build.sbt[0m
+2022.12.25 20:31:54 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/plugins.sbt[0m
+2022.12.25 20:32:01 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/build.sbt[0m
+2022.12.25 20:33:08 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/build.sbt[0m
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.5.3/scalafmt-core_2.13-3.5.3.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.5.3/scalafmt-core_2.13-3.5.3.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.5.3/scalafmt-sysops_2.13-3.5.3.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.5.3/scalafmt-config_2.13-3.5.3.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.5.5/scalameta_2.13-4.5.5.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.5.3/scalafmt-sysops_2.13-3.5.3.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.5.5/scalameta_2.13-4.5.5.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.5.3/scalafmt-config_2.13-3.5.3.pom
+Downloading https://repo1.maven.org/maven2/com/geirsson/metaconfig-core_2.13/0.10.0/metaconfig-core_2.13-0.10.0.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.5.5/parsers_2.13-4.5.5.pom
+Downloading https://repo1.maven.org/maven2/com/geirsson/metaconfig-typesafe-config_2.13/0.10.0/metaconfig-typesafe-config_2.13-0.10.0.pom
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scalap/2.13.8/scalap-2.13.8.pom
+Downloaded https://repo1.maven.org/maven2/com/geirsson/metaconfig-core_2.13/0.10.0/metaconfig-core_2.13-0.10.0.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scalap/2.13.8/scalap-2.13.8.pom
+Downloaded https://repo1.maven.org/maven2/com/geirsson/metaconfig-typesafe-config_2.13/0.10.0/metaconfig-typesafe-config_2.13-0.10.0.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.5.5/parsers_2.13-4.5.5.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.5.5/trees_2.13-4.5.5.pom
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.8/scala-compiler-2.13.8.pom
+Downloading https://repo1.maven.org/maven2/com/geirsson/metaconfig-pprint_2.13/0.10.0/metaconfig-pprint_2.13-0.10.0.pom
+Downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.5.0/scala-collection-compat_2.13-2.5.0.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.8/scala-compiler-2.13.8.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.5.0/scala-collection-compat_2.13-2.5.0.pom
+Downloaded https://repo1.maven.org/maven2/com/geirsson/metaconfig-pprint_2.13/0.10.0/metaconfig-pprint_2.13-0.10.0.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.5.5/trees_2.13-4.5.5.pom
+Downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna/5.9.0/jna-5.9.0.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.5.5/common_2.13-4.5.5.pom
+Downloaded https://repo1.maven.org/maven2/net/java/dev/jna/jna/5.9.0/jna-5.9.0.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.5.5/common_2.13-4.5.5.pom
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/geny_2.13/0.6.5/geny_2.13-0.6.5.pom
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.13/0.2.7/sourcecode_2.13-0.2.7.pom
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/geny_2.13/0.6.5/geny_2.13-0.6.5.pom
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.13/0.2.7/sourcecode_2.13-0.2.7.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.5.5/parsers_2.13-4.5.5.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.5.5/scalameta_2.13-4.5.5.jar
+Downloading https://repo1.maven.org/maven2/com/geirsson/metaconfig-typesafe-config_2.13/0.10.0/metaconfig-typesafe-config_2.13-0.10.0.jar
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.8/scala-reflect-2.13.8.jar
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.13/0.2.7/sourcecode_2.13-0.2.7.jar
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scalap/2.13.8/scalap-2.13.8.jar
+Downloaded https://repo1.maven.org/maven2/com/geirsson/metaconfig-typesafe-config_2.13/0.10.0/metaconfig-typesafe-config_2.13-0.10.0.jar
+Downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.5.0/scala-collection-compat_2.13-2.5.0.jar
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.13/0.2.7/sourcecode_2.13-0.2.7.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.5.5/trees_2.13-4.5.5.jar
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.5.0/scala-collection-compat_2.13-2.5.0.jar
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.8/scala-compiler-2.13.8.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.5.5/scalameta_2.13-4.5.5.jar
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/geny_2.13/0.6.5/geny_2.13-0.6.5.jar
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/geny_2.13/0.6.5/geny_2.13-0.6.5.jar
+Downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna/5.9.0/jna-5.9.0.jar
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scalap/2.13.8/scalap-2.13.8.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.5.3/scalafmt-sysops_2.13-3.5.3.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.5.3/scalafmt-sysops_2.13-3.5.3.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.5.5/common_2.13-4.5.5.jar
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.8/scala-reflect-2.13.8.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.5.3/scalafmt-core_2.13-3.5.3.jar
+Downloaded https://repo1.maven.org/maven2/net/java/dev/jna/jna/5.9.0/jna-5.9.0.jar
+Downloading https://repo1.maven.org/maven2/com/geirsson/metaconfig-core_2.13/0.10.0/metaconfig-core_2.13-0.10.0.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.5.5/parsers_2.13-4.5.5.jar
+Downloading https://repo1.maven.org/maven2/com/geirsson/metaconfig-pprint_2.13/0.10.0/metaconfig-pprint_2.13-0.10.0.jar
+Downloaded https://repo1.maven.org/maven2/com/geirsson/metaconfig-core_2.13/0.10.0/metaconfig-core_2.13-0.10.0.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.5.3/scalafmt-config_2.13-3.5.3.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.5.3/scalafmt-config_2.13-3.5.3.jar
+Downloaded https://repo1.maven.org/maven2/com/geirsson/metaconfig-pprint_2.13/0.10.0/metaconfig-pprint_2.13-0.10.0.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.5.3/scalafmt-core_2.13-3.5.3.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.5.5/common_2.13-4.5.5.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.5.5/trees_2.13-4.5.5.jar
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.8/scala-compiler-2.13.8.jar
+2022.12.25 20:33:31 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/build.sbt[0m
+2022.12.25 20:33:43 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/build.sbt[0m
+2022.12.25 20:33:49 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/build.sbt[0m
+2022.12.25 20:37:17 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/plugins.sbt[0m
+2022.12.25 20:37:21 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/plugins.sbt[0m
+2022.12.25 20:37:33 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/plugins.sbt[0m
+2022.12.25 20:37:33 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/build.sbt[0m
+2022.12.25 20:37:45 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/build.sbt[0m
+2022.12.25 20:38:21 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/plugins.sbt[0m
+2022.12.25 20:41:34 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/build.sbt[0m
+2022.12.25 20:41:38 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/build.sbt[0m
+2022.12.25 20:41:41 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/build.sbt[0m
+2022.12.25 21:38:40 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/src/main/scala/WordCount.scala[0m
+2022.12.25 23:25:34 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/build.sbt[0m
+2022.12.25 23:25:59 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/src/main/scala/WordCount.scala[0m
+Dec 26, 2022 8:14:42 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Dec 26, 2022 8:14:42 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Dec 26, 2022 8:14:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace

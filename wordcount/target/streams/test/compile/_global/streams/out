@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/ubuntu/data_engineer/wordcount/src/test/scala/WordCountTest.scala:14:32: No TypeTag available for Row[0m
+[0m[[0m[31merror[0m] [0m[0m  val text = sc.createDataFrame(Seq(Row("this is a test of the word count function")))[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ubuntu/data_engineer/wordcount/src/test/scala/WordCountTest.scala:17:19: value textFile is not a member of org.apache.spark.sql.SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m  val result = sc.textFile("output").collect()[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

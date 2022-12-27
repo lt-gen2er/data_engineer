@@ -140,3 +140,56 @@ Dec 26, 2022 8:14:42 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notif
 INFO: Unsupported notification method: $/setTrace
 Dec 26, 2022 8:14:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2022.12.26 21:15:44 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/ubuntu/data_engineer/.metals/lsp.trace.json or /home/ubuntu/.cache/metals/lsp.trace.json[0m
+2022.12.26 21:15:45 INFO  logging to file /home/ubuntu/data_engineer/.metals/metals.log[0m
+2022.12.26 21:15:45 INFO  Started: Metals version 0.11.9 in workspace '/home/ubuntu/data_engineer' for client Visual Studio Code 1.74.2.[0m
+2022.12.26 21:15:49 INFO  time: initialize in 4.31s[0m
+2022.12.26 21:15:50 WARN  Build server is not auto-connectable.[0m
+2022.12.26 21:15:50 WARN  no build tool detected in workspace '/home/ubuntu/data_engineer'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2022.12.26 21:15:50 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/src/test/scala/WordCountTest.scala[0m
+2022.12.26 21:15:52 INFO  no build target found for /home/ubuntu/data_engineer/wordcount/src/test/scala/WordCountTest.scala. Using presentation compiler with project's scala-library version: 3.2.0[0m
+2022.12.26 21:15:53 INFO  time: code lens generation in 3.07s[0m
+2022.12.26 21:16:05 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/src/test/scala/WordCountTest.scala[0m
+2022.12.26 21:16:48 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/src/test/scala/WordCountTest.scala[0m
+2022.12.26 21:16:49 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/src/test/scala/WordCountTest.scala[0m
+2022.12.26 21:16:48 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/src/test/scala/WordCountTest.scala[0m
+2022.12.26 21:16:50 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/src/test/scala/WordCountTest.scala[0m
+2022.12.26 21:16:50 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/src/test/scala/WordCountTest.scala[0m
+Dec 26, 2022 9:18:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 54
+2022.12.26 21:18:14 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/src/test/scala/WordCountTest.scala[0m
+2022.12.26 21:21:43 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/build.sbt[0m
+2022.12.26 21:22:24 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/build.sbt[0m
+2022.12.26 21:22:25 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/build.sbt[0m
+2022.12.26 21:23:53 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/src/test/scala/WordCountTest.scala[0m
+2022.12.26 21:23:56 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/build.sbt[0m
+2022.12.26 21:25:29 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/build.sbt[0m
+2022.12.26 21:27:37 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/build.sbt[0m
+2022.12.26 21:28:51 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/src/main/scala/WordCount.scala[0m
+2022.12.26 22:12:14 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/src/test/scala/WordCountTest.scala[0m
+2022.12.26 22:12:15 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/src/test/scala/WordCountTest.scala[0m
+2022.12.26 22:12:40 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/src/test/scala/WordCountTest.scala[0m
+2022.12.26 22:19:15 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/src/test/scala/WordCountTest.scala[0m
+2022.12.26 22:19:35 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/src/test/scala/WordCountTest.scala[0m
+2022.12.26 22:20:08 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/src/test/scala/WordCountTest.scala[0m
+2022.12.26 22:23:49 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/src/test/scala/WordCountTest.scala[0m
+2022.12.26 22:26:24 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/src/test/scala/WordCountTest.scala[0m
+2022.12.26 22:27:06 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/build.sbt[0m
+2022.12.26 22:28:54 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/build.sbt[0m
+2022.12.26 22:33:51 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/build.sbt[0m
+2022.12.26 22:34:38 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/build.sbt[0m
+2022.12.26 22:38:23 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/src/test/scala/build.sbt[0m
+2022.12.26 22:43:38 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/src/test/scala/WordCountTest.scala[0m
+2022.12.26 22:44:15 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/src/test/scala/WordCountTest.scala[0m
+2022.12.26 22:46:37 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/src/test/scala/WordCountTest.scala[0m
+2022.12.26 22:46:44 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/src/test/scala/WordCountTest.scala[0m
+2022.12.26 22:46:45 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/src/test/scala/WordCountTest.scala[0m
+2022.12.26 22:47:21 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/src/test/scala/WordCountTest.scala[0m
+2022.12.26 22:50:02 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/src/test/scala/WordCountTest.scala[0m
+2022.12.26 22:51:19 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/src/test/scala/WordCountTest.scala[0m
+2022.12.26 22:51:40 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/src/test/scala/WordCountTest.scala[0m
+2022.12.26 22:52:39 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/src/test/scala/WordCountTest.scala[0m
+Dec 26, 2022 10:53:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1296
+2022.12.26 22:53:42 WARN  no build target for: /home/ubuntu/data_engineer/wordcount/src/test/scala/WordCountTest.scala[0m
+2022.12.26 22:58:03 INFO  shutting down Metals[0m
